@@ -1,0 +1,73 @@
+<!-- Busca -->
+<section id="search" class="alt">
+	<form method="get" action="https://www.google.com/search">
+		<input type="text" name="q" id="q" placeholder="Busca" />
+		<input type="checkbox" name="sitesearch" value="maravillenature.github.io" checked/><br/>
+	</form>
+</section>
+
+<!-- Menu -->
+<nav id="menu">
+	<header class="major">
+		<h2>Menu</h2>
+	</header>
+	<ul>
+		<li><a href="index.html">Homepage</a></li>
+		<li><a href="convivencia.html">Convivência</a></li>
+		<li><a href="regulamento.html">Regulamento</a></li>
+		<li><a href="telefones.html">Telefones Úteis</a></li>
+		<li>
+			<span class="opener">Lazer</span>
+			<ul>
+				<li><a href="lazer.html#piscina">Piscina</a></li>
+				<li><a href="lazer.html#festa">Salão de Festas</a></li>
+				<li><a href="lazer.html#churrasqueira">Churrasqueira</a></li>
+				<li><a href="lazer.html#convivencia">Espaço Gourmet</a></li>
+				<li><a href="lazer.html#fitness">Espaço Fitness</a></li>
+				<li><a href="lazer.html#jogos">Salão de Jogos</a></li>
+				<li><a href="lazer.html#teen">Espaço Teen</a></li>
+				<li><a href="lazer.html#brinquedoteca">Brinquedoteca</a></li>
+				<li><a href="lazer.html#playground">Playground</a></li>
+			</ul>
+		</li>
+	</ul>
+</nav>
+
+<!-- Section -->
+<section>
+	<header class="major">
+		<h2>Localização</h2>
+	</header>
+	<div class="mini-posts">
+		<article>
+			<a href="http://turismo.jundiai.sp.gov.br/a-cidade/conheca-jundiai/" target="_blank" class="image"><img src="images/jundiai.jpg" alt="" /></a>
+			<p>Localizada a pouco mais que 50 km da capital, Jundiaí é um dos municípios mais importantes do Estado de São Paulo.</p>
+		</article>
+		<article>
+			<a href="https://www.google.com.br/maps/place/Maraville+Nature/@-23.2120726,-46.8877547,15z/data=!4m2!3m1!1s0x0:0xcbe2d627aefc331f?sa=X&sqi=2&ved=0ahUKEwi7vbuW17jQAhUBxpAKHeF8C8cQ_BIIeDAK" target="_blank" class="image"><img src="images/mapa.jpg" alt="" /></a>
+			<p>Visualizar nossa localização no Mapa.</p>
+		</article>
+	</div>
+	<!--
+		<ul class="actions">
+			<li><a href="#" class="button">Mais</a></li>
+		</ul>
+		-->
+</section>
+
+<!-- Section -->
+<section>
+	<header class="major">
+		<h2>Contato</h2>
+	</header>
+	<p>
+		A administração do condomínio fica ao lado do elevador da portaria. <br>O horário de funcionamento é de segunda à sexta das 8:30 às 17:30. Aos sábados das 8:30 ao 12:00. Não abre em feriados.
+	</p>
+	<ul class="contact">
+		<!-- <li class="fa-envelope-o"><a href="#">information@untitled.tld</a></li> -->
+		<!-- <li class="fa-phone">(000) 000-0000</li> -->
+		<li class="fa-home">Rua União, 454 – Jundiainópolis<br />
+			Jundiaí, SP 13206-650
+		</li>
+	</ul>
+</section>

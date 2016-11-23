@@ -1,0 +1,7 @@
+<!-- Footer -->
+<footer id="footer">
+	<p class="copyright">
+		&copy; Direitos reservados Maraville Nature<br>
+		<!-- Design original: <a href="https://html5up.net">HTML5 UP</a>. -->
+	</p>
+</footer>

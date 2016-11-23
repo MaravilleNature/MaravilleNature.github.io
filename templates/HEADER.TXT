@@ -1,0 +1,64 @@
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+<link rel="stylesheet" href="assets/css/main.css" />
+<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+
+<!-- Informação para crawlers -->
+<meta http-equiv="Content-Language" content="pt-BR"/>
+<meta name="description" content="Condomínio Maraville Nature"/>
+<meta name="keywords" content="Maraville, Maraville Nature, Jundiaí"/>
+
+<!-- Ícones -->
+<link rel="icon" type="image/png" sizes="192x192" href="icons/favicon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32"   href="icons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96"   href="icons/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16"   href="icons/favicon-16x16.png">
+
+<!-- Google Analitics -->
+<script>
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+	
+	ga('create', 'UA-10099135-2', 'auto');
+	ga('send', 'pageview');
+</script>
+
+<!-- Structured Data -->
+<script type="application/ld+json">
+	{
+		"@context": "http://schema.org",
+		"@type": "ApartmentComplex",
+		"address": {
+			"@type": "PostalAddress",
+			"addressLocality": "Jundiaí",
+			"addressRegion": "SP",
+			"streetAddress": "Rua União, 454"
+		},
+		"name": "Condomínio Maraville Nature",
+		"alternateName": "Maraville Nature",
+		"description": "Condomínio localizado em Jundiaí, junto à Anhanguera",
+		"photo": "https://maravillenature.github.io/images/entrada.jpg",
+		"image": "https://maravillenature.github.io/images/entrada.jpg",
+		"logo": "https://maravillenature.github.io/images/logo.jpg",
+		"url": "https://maravillenature.github.io",
+		"geo": {
+			"@type": "GeoCoordinates",
+			"latitude": "-23.2120726",
+			"longitude": "-46.8877547"
+		}
+	}
+</script>
+
+<!-- Structured Data Administração -->
+<script type="application/ld+json">
+	{
+		"@context": "http://schema.org",
+		"@type": "Organization",
+		"name": "Administração Maraville Nature",
+		"foundingDate": "2015-18-09"
+	}
+</script>

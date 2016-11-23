@@ -1,0 +1,14 @@
+# ---- index.html ----
+sed -e '/HEADER_SUBSTITUTE_THIS/   {' -e 'r templates/HEADER.TXT'   -e 'd' -e '}' templates/index.html.in > index.html
+sed -e '/ICON_SUBSTITUTE_THIS/     {' -e 'r templates/ICONS.TXT'    -e 'd' -e '}' -i index.html
+sed -e '/MENU_SUBSTITUTE_THIS/     {' -e 'r templates/MENU.TXT'     -e 'd' -e '}' -i index.html
+sed -e '/SURVEY_SUBSTITUTE_THIS/   {' -e 'r templates/PESQUISA.TXT' -e 'd' -e '}' -i index.html
+sed -e '/FOOTER_SUBSTITUTE_THIS/   {' -e 'r templates/FOOTER.TXT'   -e 'd' -e '}' -i index.html
+
+# ---- agua.html ----
+sed -e '/HEADER_SUBSTITUTE_THIS/   {' -e 'r templates/HEADER.TXT'   -e 'd' -e '}' templates/agua.html.in > agua.html
+sed -e '/ICON_SUBSTITUTE_THIS/     {' -e 'r templates/ICONS.TXT'    -e 'd' -e '}' -i agua.html
+sed -e '/MENU_SUBSTITUTE_THIS/     {' -e 'r templates/MENU.TXT'     -e 'd' -e '}' -i agua.html
+sed -e '/SURVEY_SUBSTITUTE_THIS/   {' -e 'r templates/PESQUISA.TXT' -e 'd' -e '}' -i agua.html
+sed -e '/FOOTER_SUBSTITUTE_THIS/   {' -e 'r templates/FOOTER.TXT'   -e 'd' -e '}' -i agua.html
+
