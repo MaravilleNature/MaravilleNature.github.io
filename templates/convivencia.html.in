@@ -6,7 +6,7 @@
 	-->
 <html>
 	<head>
-		<title>Maraville Nature - Água Individualizada</title>
+		<title>Maraville Nature - Regras de Convivência</title>
 
 		<!-- Substitute pattern with the content of other file -->
 		HEADER_SUBSTITUTE_THIS
@@ -21,7 +21,7 @@
 				<div class="inner">
 					<!-- Header -->
 					<header id="header">
-						<a href="index.html" class="logo"><strong>É nosso:</strong> Água</a>
+						<a href="index.html" class="logo"><strong>É nosso:</strong> Convivência</a>
 
 						<!-- Substitute pattern with the content of other file -->
 						ICON_SUBSTITUTE_THIS
@@ -31,17 +31,34 @@
 					<!-- Content -->
 					<section>
 						<header class="main">
-							<h1>Água Individualizada</h1>
+							<h1>Convivência</h1>
 						</header>
 						<span class="image main"><img src="images/foto11.jpg" alt="" /></span>
 <!-- Conteúdo -->
 <p>
-Cada morador paga por volta de R$ 43,00 reais de água no rateio do condomínio. O site do DAE informa que o consumo mínimo residencial é 10 mil litros cujo valor é R$ 33,38.
+Todo e qualquer dano causado nas áreas comuns pelo condômino, seus visitantes ou filhos é de sua exclusiva responsabilidade.
 </p>
+
 <p>
-Já existe individualização em Campinas: <a href="http://www.sanasa.com.br/noticias/not_con3.asp?par_nrod=542&f=A" target="_blank">visualizar notícia</a>.</p>
+O lixo comum é recolhido às terças, quintas e sábados. O lixo reciclável é recolhido às sextas.
+</p>
+
 <p>
-O DAE se faz de bobo, porém, até palestra sobre o assunto já foi dada: <a href="http://www.daejundiai.com.br/2006/11/hidrometracao-individualizada-em-condominios-e-tema-de-curso/" target="_blank">visualizar notícia</a>.
+É dever do condômino não promover atividades que perturbem a tranquilidade e segurança dos demais
+moradores do Edifício. Tampouco, exercer atividades ruidosas ou ilícitas nas dependências do condomínio.
+</p>
+
+<p>
+A execução de obras, reparos, montagens, instalações, bem como o uso de furadeiras,
+ixadeiras, etc., somente serão permitidos de segunda a sexta-feira das 08:30 às 17:30
+e aos sabado das 09:00 às 14:O0 hs, sendo expressamente proibidas aos domingos e feriados. 
+Casos de emergência devem ser comunicados à administração.
+</p>
+
+<p>
+Os entulhos deverão ser retirados impreteriveimente de segunda à sexta das 09:00 às 15:OO,
+e aos sabados das 09:00 às 10:00 hs, sempre sob a supervisão do responsável pela obra, por 
+conta exclusiva do condômino.
 </p>
 <!-- Conteúdo -->
 					</section>

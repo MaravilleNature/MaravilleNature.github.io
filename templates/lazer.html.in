@@ -1,0 +1,123 @@
+<!DOCTYPE HTML>
+<!--
+	Editorial by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+	-->
+<html>
+	<head>
+		<title>Maraville Nature - Lazer</title>
+
+		<!-- Substitute pattern with the content of other file -->
+		HEADER_SUBSTITUTE_THIS
+		<!-- Header -->
+	</head>
+
+	<body>
+		<!-- Wrapper -->
+		<div id="wrapper">
+			<!-- Main -->
+			<div id="main">
+				<div class="inner">
+					<!-- Header -->
+					<header id="header">
+						<a href="index.html" class="logo"><strong>É nosso:</strong> Lazer</a>
+
+						<!-- Substitute pattern with the content of other file -->
+						ICON_SUBSTITUTE_THIS
+						<!-- Icon -->
+					</header>
+
+					<!-- Content -->
+					<section>
+						<header class="main">
+							<h1>Equipamentos de Lazer</h1>
+						</header>
+						<span class="image main"><img src="images/foto11.jpg" alt="" /></span>
+<!-- Conteúdo -->
+	<p>Os equipamentos de lazer, seu horário de funcionamento e regras estão listados abaixo. Importante lembrar que os danos causados a si ou a outrem pelo condômino, pelos seus familiares ou convidados são de sua exclusiva responsabilidade.</p>
+
+	<hr class="major" />
+	<h2 id="piscina">Piscinas</h2>
+	<p>Horário de Funcionamento: 07:00 às 22:00</p>
+	<p>Normas: é de uso restrito aos moradores do condomínio. A circulação em trajes de banho deve ser restrita à área da piscina, sendo vedada nas demais áreas comuns. <br>
+         O consumo de alimentos líquidos é permitido em copos e garrafas plásticas. É vedado o consumo de quaisquer comestíveis.</p>
+
+	<hr class="major" />
+	<h2 id="festa">Salão de Festas</h2>
+	<p>Localização: Torre B.</p>
+	<p>Horário de Funcionamento: 09:00 às 22:00. Sextas, sábados e vésperas de feriado até às 00:00.</p>
+	<p>Custo: R$ xx,00 cobrado via boleto de condomínio.</p>
+	<p>A reserva deve ser realizada no site da administradora.</p>
+	<p>Normas: o condômino requisitante deve fornecer a lista de convidados à portaria. Ainda, é responsável pelo comportamento dos presentes e pelos eventuais danos decorrentes da utilização do espaço.</p>
+
+	<hr class="major" />
+	<h2 id="churrasqueira">Churrasqueira</h2>
+	<p>Horário de Funcionamento: 09:00 às 22:00. Sextas, sábados e vésperas de feriado até às 00:00.</p>
+	<p>Custo: R$ xx,00 cobrado via boleto de condomínio.</p>
+	<p>A reserva deve ser realizada no site da administradora.</p>
+	<p>Normas: o condômino requisitante deve fornecer a lista de convidados à portaria. Ainda, é responsável pelo comportamento dos presentes e pelos eventuais danos decorrentes da utilização do espaço.</p>
+
+	<hr class="major" />
+	<h2 id="convivencia">Espaço Gourmet</h2>
+	<p>Localização: Torre B.</p>
+	<p>Horário de Funcionamento: 09:00 às 22:00. Sextas, sábados e vésperas de feriado até às 00:00.</p>
+	<p>Custo: R$ xx,00 cobrado via boleto de condomínio.</p>
+	<p>A reserva deve ser realizada no site da administradora.</p>
+	<p>Normas: o condômino requisitante deve fornecer a lista de convidados à portaria. Ainda, é responsável pelo comportamento dos presentes e pelos eventuais danos decorrentes da utilização do espaço.</p>
+
+	<hr class="major" />
+	<h2 id="fitness">Espaço Fitness</h2>
+	<p>Localização: Torre A.</p>
+	<p>Horário de Funcionamento: 06:00 às 22:00</p>
+	<p>Normas: as chaves estão disponíveis na portaria. É vedado o uso por menores de 16 anos.</p>
+
+	<hr class="major" />
+	<h2 id="jogos">Salão de Jogos</h2>
+	<p>Localização: Torre B.</p>
+	<p>Horário de Funcionamento: 09:00 às 22:00</p>
+	<p>Normas: as chaves estão disponíveis na portaria. Não há restrição à permanência de visitantes desde que acompanhados por um morador.</p>
+
+	<hr class="major" />
+	<h2 id="teen">Espaço Teen</h2>
+	<p>Localização: Atrás da torre A.</p>
+	<p>Horário de Funcionamento: 07:00 às 22:00</p>
+	<p>Normas: as chaves estão disponíveis na portaria. Não há restrição à permanência de visitantes desde que acompanhados por um morador.</p>
+
+	<hr class="major" />
+	<h2 id="brinquedoteca">Brinquedoteca</h2>
+	<p>Localização: Atrás da torre A.</p>
+	<p>Horário de Funcionamento: 08:00 às 21:00</p>
+	<p>Normas: é proibida a permanência de crianças de desacompanhadas.</p>
+
+	<hr class="major" />
+	<h2 id="playground">Playground</h2>
+	<p>Localização: Atrás da torre A.</p>
+	<p>Horário de Funcionamento: 08:00 às 21:00</p>
+	<p>Normas: é proibida a permanência de crianças de desacompanhadas.</p>
+<!-- Conteúdo -->
+					</section>
+				</div>
+			</div>
+
+			<!-- Sidebar -->
+			<div id="sidebar">
+				<div class="inner">
+					<!-- Substitute pattern with the content of other file -->
+					MENU_SUBSTITUTE_THIS
+					<!-- Search and Menu -->
+
+					<!-- Substitute pattern with the content of other file -->
+					FOOTER_SUBSTITUTE_THIS
+					<!-- Footer -->
+				</div>
+			</div>
+		</div>
+		<!-- Scripts -->
+		<script src="assets/js/jquery.min.js"></script>
+		<script src="assets/js/skel.min.js"></script>
+		<script src="assets/js/util.js"></script>
+		<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+		<script src="assets/js/main.js"></script>
+	</body>
+</html>

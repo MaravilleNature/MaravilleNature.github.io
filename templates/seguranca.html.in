@@ -1,0 +1,79 @@
+<!DOCTYPE HTML>
+<!--
+	Editorial by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+	-->
+<html>
+	<head>
+		<title>Maraville Nature - Nossa Segurança</title>
+
+		<!-- Substitute pattern with the content of other file -->
+		HEADER_SUBSTITUTE_THIS
+		<!-- Header -->
+	</head>
+
+	<body>
+		<!-- Wrapper -->
+		<div id="wrapper">
+			<!-- Main -->
+			<div id="main">
+				<div class="inner">
+					<!-- Header -->
+					<header id="header">
+						<a href="index.html" class="logo"><strong>É nosso:</strong> Segurança</a>
+
+						<!-- Substitute pattern with the content of other file -->
+						ICON_SUBSTITUTE_THIS
+						<!-- Icon -->
+					</header>
+
+					<!-- Content -->
+					<section>
+						<header class="main">
+							<h1>Segurança no Condomínio</h1>
+						</header>
+						<span class="image main"><img src="images/foto11.jpg" alt="" /></span>
+<!-- Conteúdo -->
+<p>Dicas de segurança da PM/SP. </p>
+<p>
+● Participe ativamente das reuniões referentes à segurança, inclusive fazendo parte das comissões ou conselhos de segurança do seu condomínio; <br>
+● Obedeça às normas de segurança preconizadas para o seu condomínio; <br>
+● Traga sempre informações sobre assuntos relativos à segurança, pois suas sugestões são valiosas para o aperfeiçoamento e atualização da proteção de todos; <br>
+● Colabore com o síndico e demais moradores na formação de medidas que garanta a eficácia de todo o sistema de controle a ser implantado;<br>
+● Compreenda e elogie as ações preventivas dos funcionários, pois, além de estarem cumprindo ordens, visam garantir a segurança do condomínio, mesmo quando estas atitudes representem algum transtorno para si ou para suas visitas; <br>
+● Conscientize seus parentes e empregados sobre a importância da integração de todos no sistema de segurança adotado pelo condomínio; <br>
+● Não se exponha desnecessariamente; somente desça à portaria quando o assunto lhe for pertinente;<br>
+● Evite comentar sobre sua vida íntima na frente de estranhos;<br> 
+● Ao entrar ou sair do prédio, observe se há pessoas nas proximidades. Caso perceba alguma movimentação estranha, não entre ou saia, ligue imediatamente para a polícia, avise seus familiares e o porteiro; <br>
+● Antes de entrar na garagem, verifique se há algum veículo atrás do seu, se está em situação suspeita ou se seus ocupantes são moradores do condomínio. Ao sair, também observe se há alguma situação de suspeição;<br>
+● Se o portão da garagem funciona através de acionamento automático, aguarde para que a porta esteja totalmente fechada antes de se dirigir para sua vaga; <br>
+● Ao estacionar seu veículo na garagem ou na rua, nunca o deixe aberto e nem com objetos de valor à vista, ligue sempre o alarme do seu veículo; <br>
+● Procure conhecer os hábitos de seus vizinhos e se relacionar bem com eles. 
+</p>
+<!-- Conteúdo -->
+					</section>
+				</div>
+			</div>
+
+			<!-- Sidebar -->
+			<div id="sidebar">
+				<div class="inner">
+					<!-- Substitute pattern with the content of other file -->
+					MENU_SUBSTITUTE_THIS
+					<!-- Search and Menu -->
+
+					<!-- Substitute pattern with the content of other file -->
+					FOOTER_SUBSTITUTE_THIS
+					<!-- Footer -->
+				</div>
+			</div>
+		</div>
+		<!-- Scripts -->
+		<script src="assets/js/jquery.min.js"></script>
+		<script src="assets/js/skel.min.js"></script>
+		<script src="assets/js/util.js"></script>
+		<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+		<script src="assets/js/main.js"></script>
+	</body>
+</html>

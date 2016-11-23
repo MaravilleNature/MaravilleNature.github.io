@@ -12,3 +12,37 @@ sed -e '/MENU_SUBSTITUTE_THIS/     {' -e 'r templates/MENU.TXT'     -e 'd' -e '}
 sed -e '/SURVEY_SUBSTITUTE_THIS/   {' -e 'r templates/PESQUISA.TXT' -e 'd' -e '}' -i agua.html
 sed -e '/FOOTER_SUBSTITUTE_THIS/   {' -e 'r templates/FOOTER.TXT'   -e 'd' -e '}' -i agua.html
 
+# ---- convivencia.html ----
+sed -e '/HEADER_SUBSTITUTE_THIS/   {' -e 'r templates/HEADER.TXT'   -e 'd' -e '}' templates/convivencia.html.in > convivencia.html
+sed -e '/ICON_SUBSTITUTE_THIS/     {' -e 'r templates/ICONS.TXT'    -e 'd' -e '}' -i convivencia.html
+sed -e '/MENU_SUBSTITUTE_THIS/     {' -e 'r templates/MENU.TXT'     -e 'd' -e '}' -i convivencia.html
+sed -e '/SURVEY_SUBSTITUTE_THIS/   {' -e 'r templates/PESQUISA.TXT' -e 'd' -e '}' -i convivencia.html
+sed -e '/FOOTER_SUBSTITUTE_THIS/   {' -e 'r templates/FOOTER.TXT'   -e 'd' -e '}' -i convivencia.html
+
+# ---- lazer.html ----
+sed -e '/HEADER_SUBSTITUTE_THIS/   {' -e 'r templates/HEADER.TXT'   -e 'd' -e '}' templates/lazer.html.in > lazer.html
+sed -e '/ICON_SUBSTITUTE_THIS/     {' -e 'r templates/ICONS.TXT'    -e 'd' -e '}' -i lazer.html
+sed -e '/MENU_SUBSTITUTE_THIS/     {' -e 'r templates/MENU.TXT'     -e 'd' -e '}' -i lazer.html
+sed -e '/SURVEY_SUBSTITUTE_THIS/   {' -e 'r templates/PESQUISA.TXT' -e 'd' -e '}' -i lazer.html
+sed -e '/FOOTER_SUBSTITUTE_THIS/   {' -e 'r templates/FOOTER.TXT'   -e 'd' -e '}' -i lazer.html
+
+# ---- regulamento.html ----
+sed -e '/HEADER_SUBSTITUTE_THIS/   {' -e 'r templates/HEADER.TXT'   -e 'd' -e '}' templates/regulamento.html.in > regulamento.html
+sed -e '/ICON_SUBSTITUTE_THIS/     {' -e 'r templates/ICONS.TXT'    -e 'd' -e '}' -i regulamento.html
+sed -e '/MENU_SUBSTITUTE_THIS/     {' -e 'r templates/MENU.TXT'     -e 'd' -e '}' -i regulamento.html
+sed -e '/SURVEY_SUBSTITUTE_THIS/   {' -e 'r templates/PESQUISA.TXT' -e 'd' -e '}' -i regulamento.html
+sed -e '/FOOTER_SUBSTITUTE_THIS/   {' -e 'r templates/FOOTER.TXT'   -e 'd' -e '}' -i regulamento.html
+
+# ---- seguranca.html ----
+sed -e '/HEADER_SUBSTITUTE_THIS/   {' -e 'r templates/HEADER.TXT'   -e 'd' -e '}' templates/seguranca.html.in > seguranca.html
+sed -e '/ICON_SUBSTITUTE_THIS/     {' -e 'r templates/ICONS.TXT'    -e 'd' -e '}' -i seguranca.html
+sed -e '/MENU_SUBSTITUTE_THIS/     {' -e 'r templates/MENU.TXT'     -e 'd' -e '}' -i seguranca.html
+sed -e '/SURVEY_SUBSTITUTE_THIS/   {' -e 'r templates/PESQUISA.TXT' -e 'd' -e '}' -i seguranca.html
+sed -e '/FOOTER_SUBSTITUTE_THIS/   {' -e 'r templates/FOOTER.TXT'   -e 'd' -e '}' -i seguranca.html
+
+# ---- telefones.html ----
+sed -e '/HEADER_SUBSTITUTE_THIS/   {' -e 'r templates/HEADER.TXT'   -e 'd' -e '}' templates/telefones.html.in > telefones.html
+sed -e '/ICON_SUBSTITUTE_THIS/     {' -e 'r templates/ICONS.TXT'    -e 'd' -e '}' -i telefones.html
+sed -e '/MENU_SUBSTITUTE_THIS/     {' -e 'r templates/MENU.TXT'     -e 'd' -e '}' -i telefones.html
+sed -e '/SURVEY_SUBSTITUTE_THIS/   {' -e 'r templates/PESQUISA.TXT' -e 'd' -e '}' -i telefones.html
+sed -e '/FOOTER_SUBSTITUTE_THIS/   {' -e 'r templates/FOOTER.TXT'   -e 'd' -e '}' -i telefones.html
