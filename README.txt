@@ -1,3 +1,4 @@
+Uma "ideia" de portal de comunicação que nós, condôminos, devemos defender que a Administração mantenha atualizado.
 Site do Condomínio Maraville Nature
 Por Claudio André
 
