@@ -39,12 +39,14 @@
 								Somos um condomínio de apartamentos localizado na rua União, 454 – KM 55 da Anhanguera.
 								Estamos próximos da Av. 9 de Julho, do Shopping Jundiaí e das rodovias Anhanguera e Bandeirantes.
 							</p>
+<!--
 							<ul class="actions">
 								<li>
 									<a href="https://www.google.com.br/#q=maraville+nature+jundiai" target="_blank"
 										class="button big">Saiba Mais</a>
 								</li>
 							</ul>
+-->
 						</div>
 						<span class="image object">
 						<img src="images/entrada.jpg" alt="" />
@@ -79,7 +81,7 @@
 								<span class="icon fa-glass"></span>
 								<div class="content">
 									<h3>Água boa</h3>
-									<p>Em meados de novembro nossa caixa d'água foi limpa. O serviço é garantido até 17/05/2017. É recomendação padrão de mercado que a limpeza ocorra de 6 em 6 meses.</p>
+									<p>Em meados de novembro nossa caixa d'água foi limpa. O serviço é garantido até 17/05/2017. É o padrão de mercado que a limpeza ocorra de 6 em 6 meses.</p>
 								</div>
 							</article>
 
