@@ -8,7 +8,7 @@
 <!-- Informação para crawlers -->
 <meta http-equiv="Content-Language" content="pt-BR"/>
 <meta name="description" content="Condomínio Maraville Nature"/>
-<meta name="keywords" content="Maraville, Maraville Nature, Jundiaí"/>
+<meta name="keywords" content="Maraville, Maraville Nature, Jundiaí, Condomínio"/>
 
 <!-- Ícones -->
 <link rel="icon" type="image/png" sizes="192x192" href="icons/favicon-192x192.png">
@@ -25,6 +25,13 @@
 	
 	ga('create', 'UA-10099135-2', 'auto');
 	ga('send', 'pageview');
+</script>
+
+<script type="text/javascript">
+	function eventoSair(){
+		ga('send', 'event', 'Navegar', 'eventoSair');
+	}
+	window.onunload = eventoSair;
 </script>
 
 <!-- Structured Data -->
