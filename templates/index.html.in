@@ -37,7 +37,8 @@
 							</header>
 							<p>
 								Somos um condomínio de apartamentos localizado na rua União, 454 – KM 55 da Anhanguera.
-								Estamos próximos da Av. 9 de Julho, do Shopping Jundiaí e das rodovias Anhanguera e Bandeirantes.
+								Estamos próximos da Av. 9 de Julho, do Shopping Jundiaí e das rodovias Anhanguera e Bandeirantes.<br><br>
+								Este é nosso canal eletrônico de comunicação e orientação ao morador!
 							</p>
 <!--
 							<ul class="actions">
@@ -107,7 +108,7 @@
 							<article>
 								<a href="seguranca.html" class="image"><img src="images/camera.jpg" alt="" /></a>
 								<h3>Segurança</h3>
-								<p>Dispomos de portaria 24h e controle de acesso biometrico. Será que é suficiente?</p>
+								<p>Dispomos de portaria 24 horas blindada e controle de acesso biometrico. Será que é suficiente?</p>
 								<ul class="actions">
 									<li><a href="seguranca.html" class="button">Mais</a></li>
 								</ul>
