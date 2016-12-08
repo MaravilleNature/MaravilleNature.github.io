@@ -19,7 +19,7 @@
 <!-- Informação para crawlers -->
 <meta http-equiv="Content-Language" content="pt-BR"/>
 <meta name="description" content="Condomínio Maraville Nature"/>
-<meta name="keywords" content="Maraville, Maraville Nature, Jundiaí"/>
+<meta name="keywords" content="Maraville, Maraville Nature, Jundiaí, Condomínio"/>
 
 <!-- Ícones -->
 <link rel="icon" type="image/png" sizes="192x192" href="icons/favicon-192x192.png">
@@ -36,6 +36,13 @@
 	
 	ga('create', 'UA-10099135-2', 'auto');
 	ga('send', 'pageview');
+</script>
+
+<script type="text/javascript">
+	function eventoSair(){
+		ga('send', 'event', 'Navegar', 'eventoSair');
+	}
+	window.onunload = eventoSair;
 </script>
 
 <!-- Structured Data -->
@@ -72,6 +79,23 @@
 		"name": "Administração Maraville Nature",
 		"foundingDate": "2015-18-09"
 	}
+</script>
+
+<script type="application/ld+json">
+{
+	"@context": "http://schema.org",
+	"@type": "Event",
+	"name": "Festas",
+	"description": "Festividades de fim de ano",
+	"startDate" : "2016-12-23T21:30",
+	"endDate" : "2017-01-02T10:30",
+	"url" : "https://maravillenature.github.io/",
+	"location" : {
+		"@type" : "Place",
+		"name" : "Nosso Maraville Nature",
+		"address" : "Rua União, 454"
+  }
+}
 </script>
 		<!-- Header -->
 	</head>
@@ -116,14 +140,14 @@ moradores do Edifício. Tampouco, exercer atividades ruidosas ou ilícitas nas d
 
 <p>
 A execução de obras, reparos, montagens, instalações, bem como o uso de furadeiras,
-ixadeiras, etc., somente serão permitidos de segunda a sexta-feira das 08:30 às 17:30
-e aos sabado das 09:00 às 14:00 hs, sendo expressamente proibidas aos domingos e feriados.
+lixadeiras, etc., somente serão permitidos de segunda à sexta-feira das 08:30 às 17:30
+e aos sábados das 09:00 às 14:00 hs, sendo expressamente proibidas aos domingos e feriados.
 Casos de emergência devem ser comunicados à administração.
 </p>
 
 <p>
-Os entulhos deverão ser retirados impreteriveimente de segunda à sexta das 09:00 às 15:00,
-e aos sabados das 09:00 às 10:00 hs, sempre sob a supervisão do responsável pela obra, por 
+Os entulhos deverão ser retirados impreterivelmente de segunda à sexta das 09:00 às 15:00,
+e aos sábados das 09:00 às 10:00 hs, sempre sob a supervisão do responsável pela obra, por
 conta exclusiva do condômino.
 </p>
 <!-- Conteúdo -->

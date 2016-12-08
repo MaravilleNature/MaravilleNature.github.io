@@ -19,7 +19,7 @@
 <!-- Informação para crawlers -->
 <meta http-equiv="Content-Language" content="pt-BR"/>
 <meta name="description" content="Condomínio Maraville Nature"/>
-<meta name="keywords" content="Maraville, Maraville Nature, Jundiaí"/>
+<meta name="keywords" content="Maraville, Maraville Nature, Jundiaí, Condomínio"/>
 
 <!-- Ícones -->
 <link rel="icon" type="image/png" sizes="192x192" href="icons/favicon-192x192.png">
@@ -36,6 +36,13 @@
 	
 	ga('create', 'UA-10099135-2', 'auto');
 	ga('send', 'pageview');
+</script>
+
+<script type="text/javascript">
+	function eventoSair(){
+		ga('send', 'event', 'Navegar', 'eventoSair');
+	}
+	window.onunload = eventoSair;
 </script>
 
 <!-- Structured Data -->
@@ -73,6 +80,23 @@
 		"foundingDate": "2015-18-09"
 	}
 </script>
+
+<script type="application/ld+json">
+{
+	"@context": "http://schema.org",
+	"@type": "Event",
+	"name": "Festas",
+	"description": "Festividades de fim de ano",
+	"startDate" : "2016-12-23T21:30",
+	"endDate" : "2017-01-02T10:30",
+	"url" : "https://maravillenature.github.io/",
+	"location" : {
+		"@type" : "Place",
+		"name" : "Nosso Maraville Nature",
+		"address" : "Rua União, 454"
+  }
+}
+</script>
 		<!-- Header -->
 	</head>
 
@@ -103,7 +127,8 @@
 							</header>
 							<p>
 								Somos um condomínio de apartamentos localizado na rua União, 454 – KM 55 da Anhanguera.
-								Estamos próximos da Av. 9 de Julho, do Shopping Jundiaí e das rodovias Anhanguera e Bandeirantes.
+								Estamos próximos da Av. 9 de Julho, do Shopping Jundiaí e das rodovias Anhanguera e Bandeirantes.<br><br>
+								Este é nosso canal eletrônico de comunicação e orientação ao morador!
 							</p>
 <!--
 							<ul class="actions">
@@ -173,7 +198,7 @@
 							<article>
 								<a href="seguranca.html" class="image"><img src="images/camera.jpg" alt="" /></a>
 								<h3>Segurança</h3>
-								<p>Dispomos de portaria 24h e controle de acesso biometrico. Será que é suficiente?</p>
+								<p>Dispomos de portaria 24 horas blindada e controle de acesso biometrico. Será que é suficiente?</p>
 								<ul class="actions">
 									<li><a href="seguranca.html" class="button">Mais</a></li>
 								</ul>
