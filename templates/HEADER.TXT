@@ -69,3 +69,20 @@
 		"foundingDate": "2015-18-09"
 	}
 </script>
+
+<script type="application/ld+json">
+{
+	"@context": "http://schema.org",
+	"@type": "Event",
+	"name": "Festas",
+	"description": "Festividades de fim de ano",
+	"startDate" : "2016-12-23T21:30",
+	"endDate" : "2017-01-02T10:30",
+	"url" : "https://maravillenature.github.io/",
+	"location" : {
+		"@type" : "Place",
+		"name" : "Nosso Maraville Nature",
+		"address" : "Rua União, 454"
+  }
+}
+</script>
